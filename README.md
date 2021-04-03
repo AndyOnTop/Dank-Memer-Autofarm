@@ -1,10 +1,3 @@
-           _   _ _______     __   ____  _   _   _______ ____  _____  
-     /\   | \ | |  __ \ \   / /  / __ \| \ | | |__   __/ __ \|  __ \ 
-    /  \  |  \| | |  | \ \_/ /  | |  | |  \| |    | | | |  | | |__) |
-   / /\ \ | . ` | |  | |\   /   | |  | | . ` |    | | | |  | |  ___/ 
-  / ____ \| |\  | |__| | | |    | |__| | |\  |    | | | |__| | |     
- /_/    \_\_| \_|_____/  |_|     \____/|_| \_|    |_|  \____/|_|     
-                                                                     
 WARNING:
 I'm not responsible for anything that happens to your account. Discord self bots are against Discord TOS, if anyone wanted you termed they could simply report you and tell them you're using a self bot, also self bots violate dank memer's rules. So if you are caught it's game over.
 
